@@ -21,7 +21,7 @@ The goal of this project is to build an **IP PBX (Private Branch Exchange)** sys
 
 ## System Architecture
 
-
+![Asterisk Architecture](https://github.com/MHabc/FreePBX-Asterisk-IP-PBX-System/blob/master/Asterisk-architecture.png)
 
 ## Key Features
 
